@@ -8,16 +8,23 @@ Date: 2018-02-27
 
 a = 100
 b = str(a)
+
 c = 12.345
 d = str(c)
+
 e = '123'
 f = int(e)
+
 g = '123.456'
 h = float(g)
+
 i = False
+
 j = str(i)
+
 k = 'hello'
 m = bool(k)
+
 print(a)
 print(type(a))
 print(b)
